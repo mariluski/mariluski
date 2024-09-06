@@ -7,7 +7,4 @@ Tambien hare unos mini-projectos de vez en cuando 👌
 
 ## Tambien contribuire bastante a software gratis y open source
 
-Stats;
-
-![Python-Dark](https://github.com/user-attachments/assets/a7f036d5-ae22-442a-81df-3c75178b60d6) 54%
 
